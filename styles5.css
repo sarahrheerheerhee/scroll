@@ -1,0 +1,53 @@
+body{
+
+	background: black;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#background{
+	width:100%;
+	height:5000px;
+	background-color: black;
+	text-align: center;
+}
+
+#fixed1{
+	position:fixed;
+	background-color: aqua;
+	width:300px;
+	height:300px;
+	display:inline-block;
+	margin-left: 100px;
+	margin-top: 250px;
+
+}
+
+
+#fixed2{
+	position:fixed;
+	background-color: fuchsia;
+	width:300px;
+	height:300px;
+	display:inline-block;
+	margin-left: -400px;
+	margin-top: 250px;
+
+}
+
+#number{
+
+	text-align: left;
+	position: fixed;
+	font-size: 30px;
+	color:white;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+#next{
+	width:95%;
+	margin-top: 750px;
+	text-align: right;
+	position: fixed;
+	color:white;
+	font-size: 30px;
+}

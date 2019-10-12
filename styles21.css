@@ -1,0 +1,162 @@
+body{
+
+	background: black;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#background{
+	width:100%;
+	height:10000px;
+	background-color: black;
+	text-align: center;
+}
+
+
+#circle{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-left: -100px;
+	margin-top: 150px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+
+#circle2{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+
+	margin-left: 100px;
+	margin-top: 150px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+#circle3{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-left: -700px;
+	margin-top: 450px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+#circle4{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-left: 400px;
+	margin-top: 345px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+#circle5{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-left: 200px;
+	margin-top: 250px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+#circle6{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-left: 400px;
+	margin-top: 800px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+#circle7{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+
+	margin-top: 700px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+#circle8{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-left: 600px;
+	margin-top: 400px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+#circle9{
+	position:fixed;
+	background-color: white;
+	width:10px;
+	height:10px;
+	display:inline-block;
+	margin-left: -500px;
+	margin-top: 800px;
+
+  	border-radius: 100%;
+  	z-index: 1;
+
+}
+
+
+
+
+#number{
+
+	text-align: left;
+	position: fixed;
+	font-size: 30px;
+	color:white;
+	margin-left: 50px;
+	margin-top: 50px;
+	z-index: 2;
+}
+#next{
+	width:95%;
+	margin-top: 750px;
+	text-align: right;
+	position: fixed;
+	color:white;
+	font-size: 30px;
+	z-index: 2;
+}

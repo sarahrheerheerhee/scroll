@@ -1,0 +1,52 @@
+body{
+
+	background: black;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#background{
+	width:100%;
+	height:8000px;
+	background-color: black;
+	text-align: center;
+}
+
+
+#fixed{
+	position:fixed;
+	background-image: url("ball.svg") ;
+	width:700px;
+	height:300px;
+	background-repeat: no-repeat;
+
+
+	margin-left: 450px;
+	margin-top: 270px;
+
+/*  	border-radius: 100%;*/
+
+
+}
+
+
+
+
+
+
+#number{
+
+	text-align: left;
+	position: fixed;
+	font-size: 30px;
+	color:white;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+#next{
+	width:95%;
+	margin-top: 750px;
+	text-align: right;
+	position: fixed;
+	color:white;
+	font-size: 30px;
+}

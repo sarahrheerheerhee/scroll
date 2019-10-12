@@ -1,0 +1,51 @@
+body{
+
+	background: black;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#background{
+	width:100%;
+	height:5000px;
+	background-color: black;
+	text-align: center;
+}
+
+#fixed_cont{
+	position:fixed;
+	background-color: black;
+	width:100%;
+	height:300px;
+/*	display:inline-block;*/
+	margin-left: 100px;
+	margin-top: 400px;
+	display: flex;
+	flex-direction:row;
+  	flex-wrap:wrap;
+
+}
+
+.fixed_item{
+	width:100px;
+	height:100px;
+	background: yellow;
+	margin-left: 70px;
+}
+
+#number{
+
+	text-align: left;
+	position: fixed;
+	font-size: 30px;
+	color:white;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+#next{
+	width:95%;
+	margin-top: 750px;
+	text-align: right;
+	position: fixed;
+	color:white;
+	font-size: 30px;
+}
